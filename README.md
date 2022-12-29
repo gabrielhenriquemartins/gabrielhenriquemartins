@@ -1,4 +1,4 @@
-## Hello there, I'm Gabriel an adventure in this world!
+## Hello there, I'm Gabriel, an adventure in this world!
 
 - 🎓 Graduated in Telecommunication Engineering at UNICAMP (2022) 
 - 🛠️ Working as a Software Tester in Padtec (2021) 
