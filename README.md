@@ -1,7 +1,7 @@
 ## Hello there! I'm Gabriel, an adventure in this world!
 
 - 🎓 Graduated in Telecommunication Engineering at UNICAMP (2022) 
-- 🛠️ Working as a Software Tester in Padtec (2021) 
+- 🛠️ Working as a Software Tester at Padtec since 2021 
 
 <div align="center">
   <a href="https://github.com/gabrielhenriquemartins">
