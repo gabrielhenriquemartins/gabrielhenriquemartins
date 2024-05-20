@@ -1,6 +1,7 @@
 ## Hello there! I'm Gabriel, an adventure in this world!
 
-- 🎓 Graduated in Telecommunication Engineering at UNICAMP (2022) 
+- 🎓 Graduated in Telecommunication Engineering at UNICAMP (2022)
+- 🛠️ Working as a Software Tester at Infinera since 2023 
 - 🛠️ Working as a Software Tester at Padtec since 2021 
 
 <div align="center">
