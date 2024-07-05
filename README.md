@@ -1,4 +1,4 @@
-## Hello there! I'm Gabriel, an adventure in this world!
+## Hello there! I'm Gabriel, an adventurer in this world!
 
 - 🎓 Graduated in Telecommunication Engineering at UNICAMP (2022)
 - 🛠️ Software Tester at Infinera from 2023 to 2024
