@@ -14,7 +14,7 @@
   <img align="center" alt="playwright" height="30" width="40" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png">
   <img align="center" alt="grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
   <img align="center" alt="jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="gatling" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatling/gatling-plain.svg">
+  <img align="center" alt="gatling" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatling/gatling-original.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
