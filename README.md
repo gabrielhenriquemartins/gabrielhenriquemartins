@@ -10,7 +10,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+  <img align="center" alt="robot_framework" height="30" width="40" src="https://seeklogo.com/images/R/robot-framework-logo-FED576FF0B-seeklogo.com.png">
+  <img align="center" alt="cypress" height="30" width="40" src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png">
+  <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="playwright" height="30" width="40" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png">
   <img align="center" alt="grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
   <img align="center" alt="jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
