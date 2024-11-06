@@ -1,7 +1,8 @@
 ## Hello there! I'm Gabriel, an adventurer in this world!
 
 - 🎓 Graduated in Telecommunication Engineering at UNICAMP (2022)
-- 🛠️ Software Tester at Infinera from 2023 to 2024
+- 🛠️ Quality Assurance Engineer II at CSG since 2024
+- 🛠️ Quality Assurance Specialist at Infinera from 2023 to 2024
 - 🛠️ Software Tester at Padtec from 2021 to 2023
 
 <div align="center">
